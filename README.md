@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **AI / ML**
 
-- 👨‍💻 All of my projects are available at [sankalpdubedy.netlify.app](sankalpdubedy.netlify.app)
+- 👨‍💻 All of my projects are available at [sankalpdubedy.netlify.app](https://sankalpdubedy.netlify.app)
 
 - 📫 How to reach me **sankalpdubedy@gmail.com**
 
